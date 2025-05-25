@@ -1,25 +1,25 @@
-#  Sales Quota & Performance Tracker
+#  Sales Quota & Performance Dashboard
 
-An interactive dashboard built in Tableau Public to track sales rep quota attainment, commission eligibility, and regional performance insights.
+An interactive Tableau dashboard that visualizes sales rep quota attainment, commission eligibility, regional deal volume, and quota achievement metrics.
 
-## 🔗 Live Tableau Dashboard
-[View on Tableau Public](PASTE_YOUR_LINK_HERE)
+##  Live Tableau Dashboard
+[View on Tableau Public](https://public.tableau.com/views/SalesQuotaPerformanceDashboard/Dashboard1)
 
 ##  Sample Visual
 ![Sales Dashboard](sales_dashboard.png)
 
 ##  Dataset
-Custom-simulated dataset with rep-wise quota assignments, actual sales, deal count, and commission eligibility.
+Custom-simulated data with:
+- Sales rep IDs
+- Quotas vs actuals
+- Commission eligibility
+- Region and quarter tracking
 
----
-
-##  Key Metrics Visualized:
+##  Metrics Visualized
 - Quota Attainment by Rep
 - Commission Eligibility (Donut)
 - Sales & Quota % by Region
 - Deals Closed by Rep and Region
-
----
 
 ##  Tools Used
 - Tableau Public
